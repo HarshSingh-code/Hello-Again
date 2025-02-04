@@ -1,2 +1,2 @@
-let a = confirm("Is this Fun?");
-console.log(a)
+setTimeout(()=>{let a = confirm("Is this Fun?");
+    console.log(a)},6000)
